@@ -6,3 +6,5 @@ This is a C# Windows Forms cybersecurity awareness chatbot designed to educate u
 ## Features
 - GUI interface
 - Cybersecurity tips
+- Sentiment detection
+- Memory and recall
