@@ -1,13 +1,28 @@
 # CyberSecurity Awareness Bot
 
-## Project Description
-This is a C# Windows Forms cybersecurity awareness chatbot designed to educate users about online safety.
+Project Overview
 
-## Features
-- GUI interface
-- Cybersecurity tips
-- Sentiment detection
-- Memory and recall
-- Random responses
-- Voice greeting
-- Error handling
+This project is a Cybersecurity Awareness Chatbot created using C# Windows Forms in Visual Studio.
+
+The chatbot helps educate users about online safety by providing information on cybersecurity topics such as:
+
+Password safety
+Phishing
+Ransomware
+Safe browsing
+Features
+Windows Forms graphical user interface (GUI)
+Chatbot interaction
+Cybersecurity awareness tips
+Voice greeting
+Error handling for empty inputs
+Interactive chat display
+
+
+Technologies Used
+C#
+Windows Forms
+Visual Studio
+
+Developer
+Casey Malungane
