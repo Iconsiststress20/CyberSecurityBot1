@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|c:\\users\\casey\\source\\repos\\cybersecuritybot\\cybersecuritybot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|solutionrelative:cybersecuritybot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\cybersecuritybot\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|solutionrelative:cybersecuritybot\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\cybersecuritybot\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|solutionrelative:cybersecuritybot\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\cybersecuritybot\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|solutionrelative:cybersecuritybot\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "CyberSecurityBot\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\MainForm.Designer.cs*",
+              "RelativeToolTip": "CyberSecurityBot\\MainForm.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:22:07.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chatbot.cs",
+              "DocumentMoniker": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\Chatbot.cs",
+              "RelativeDocumentMoniker": "CyberSecurityBot\\Chatbot.cs",
+              "ToolTip": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\Chatbot.cs",
+              "RelativeToolTip": "CyberSecurityBot\\Chatbot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T16:52:52.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\MainForm.cs",
+              "RelativeDocumentMoniker": "CyberSecurityBot\\MainForm.cs",
+              "ToolTip": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\MainForm.cs*",
+              "RelativeToolTip": "CyberSecurityBot\\MainForm.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T16:49:42.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\MainForm.cs",
+              "RelativeDocumentMoniker": "CyberSecurityBot\\MainForm.cs",
+              "ToolTip": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\MainForm.cs [Design]*",
+              "RelativeToolTip": "CyberSecurityBot\\MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T16:44:35.867Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

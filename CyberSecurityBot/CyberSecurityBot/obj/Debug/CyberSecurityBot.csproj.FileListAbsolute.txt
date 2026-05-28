@@ -1,0 +1,10 @@
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.csproj.AssemblyReference.cache
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.MainForm.resources
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.Properties.Resources.resources
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.csproj.GenerateResource.cache
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.csproj.CoreCompileInputs.cache
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\CyberSecurityBot.exe.config
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\CyberSecurityBot.exe
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\CyberSecurityBot.pdb
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.exe
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.pdb
