@@ -8,3 +8,6 @@ C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\CyberSec
 C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\CyberSecurityBot.pdb
 C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.exe
 C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.pdb
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\System.Data.SQLite.dll
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\System.Data.SQLite.xml
+C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSec.8B1038FD.Up2Date

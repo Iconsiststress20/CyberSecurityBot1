@@ -14,13 +14,23 @@ namespace CyberSecurityBot
     public partial class MainForm : Form
     {
         Chatbot bot = new Chatbot();
+
         public MainForm()
         {
             InitializeComponent();
+
             PlayGreeting();
 
-            rtbChat.AppendText("Bot: Welcome to the Cybersecurity Awareness Bot!\n");
-            rtbChat.AppendText("Bot: Type 'help' to see available topics.\n\n");
+            rtbChat.AppendText("=============================================\n");
+            rtbChat.AppendText("      CYBERSECURITY AWARENESS BOT\n");
+            rtbChat.AppendText("=============================================\n\n");
+
+            rtbChat.AppendText("Welcome!\n");
+            rtbChat.AppendText("I'm here to help you stay safe online.\n\n");
+
+            rtbChat.AppendText("Type HELP to see everything I can do.\n\n");
+
+            txtInput.Focus();
         }
 
         private void btnSend_Click(object sender, EventArgs e)
@@ -39,21 +49,31 @@ namespace CyberSecurityBot
 
         private void SendMessage()
         {
-            string userInput = txtInput.Text;
+            string userInput = txtInput.Text.Trim();
 
-            if (string.IsNullOrEmpty(userInput))
+            if (userInput == "")
             {
-                MessageBox.Show("Please enter a message.");
+                MessageBox.Show(
+                    "Please type a message.",
+                    "Input Required",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Information);
+
+                txtInput.Focus();
                 return;
             }
 
             rtbChat.AppendText("You: " + userInput + "\n");
 
-            string response = bot.GetResponse(userInput);
+            string reply = bot.GetResponse(userInput);
 
-            rtbChat.AppendText("Bot: " + response + "\n\n");
+            rtbChat.AppendText("Bot: " + reply + "\n\n");
+
+            rtbChat.ScrollToCaret();
 
             txtInput.Clear();
+
+            txtInput.Focus();
         }
 
         private void PlayGreeting()
@@ -65,7 +85,7 @@ namespace CyberSecurityBot
             }
             catch
             {
-                MessageBox.Show("Audio file could not be played.");
+                rtbChat.AppendText("(Voice greeting unavailable.)\n\n");
             }
         }
 
