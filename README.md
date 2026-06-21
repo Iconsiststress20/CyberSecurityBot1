@@ -57,3 +57,64 @@ Read (View tasks)
 Update (Mark as completed)
 Delete (Remove tasks)
 This ensures data persistence even after the application is closed.
+🏗️ 4. System Architecture
+The system follows an object-oriented structure:
+Chatbot.cs → Main logic and user interaction
+TaskRepository.cs → Database operations (CRUD)
+Quiz.cs → Quiz logic and scoring
+ActivityLogger.cs → Logs system activity
+NLPProcessor.cs → Simulates natural language understanding
+🔄 5. Program Flow
+User enters input
+Chatbot processes input
+NLP detects intent (if applicable)
+System checks task/quiz/reminder states
+Response is generated
+Actions are logged
+Tasks are stored in database (if applicable)
+💾 6. Database Design
+Table: Tasks
+Field
+Type
+Description
+TaskId
+Integer
+Unique ID
+Title
+Text
+Task title
+Description
+Text
+Task details
+ReminderDate
+Text
+Optional reminder
+IsCompleted
+Integer
+Completion status
+🧪 7. Testing
+The system was tested using the following inputs:
+add task
+show tasks
+delete task 1
+complete task 1
+start quiz
+phishing questions
+password safety queries
+All features responded correctly and stored data properly.
+🛠️ 8. Technologies Used
+C# (.NET Console Application)
+SQLite Database
+Object-Oriented Programming (OOP)
+Basic NLP simulation logic
+📈 9. Conclusion
+The Cybersecurity Awareness Chatbot successfully demonstrates how programming can be used to create an interactive educational tool.
+It integrates multiple computing concepts including:
+Databases
+Artificial intelligence simulation (NLP)
+User interaction systems
+Data logging
+Game-based learning (quiz system)
+This project provides a strong foundation for understanding both cybersecurity and software development.
+🙏 10. Acknowledgements
+This project was developed as part of a Portfolio of Evidence (POE) assignment.
