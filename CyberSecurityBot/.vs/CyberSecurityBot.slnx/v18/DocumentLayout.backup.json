@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|solutionrelative:cybersecuritybot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|c:\\users\\casey\\source\\repos\\cybersecuritybot\\cybersecuritybot\\taskrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\cybersecuritybot\\taskrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|solutionrelative:cybersecuritybot\\taskrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|c:\\users\\casey\\source\\repos\\cybersecuritybot\\cybersecuritybot\\cyberbotdb.sqlite||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\cybersecuritybot\\cyberbotdb.sqlite||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|solutionrelative:cybersecuritybot\\cyberbotdb.sqlite||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -44,9 +44,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\cybersecuritybot\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|solutionrelative:cybersecuritybot\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDDC888-0880-4F7B-9EFF-4A4B373FB6DD}|CyberSecurityBot\\CyberSecurityBot.csproj|c:\\users\\casey\\source\\repos\\cybersecuritybot\\cybersecuritybot\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,8 +69,7 @@
               "RelativeToolTip": "CyberSecurityBot\\TaskRespository.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAgwGcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T12:53:22.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T12:53:22.847Z"
             },
             {
               "$type": "Document",
@@ -85,8 +81,7 @@
               "RelativeToolTip": "CyberSecurityBot\\CyberBotDB.sqlite",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-20T12:49:25.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T12:49:25.792Z"
             },
             {
               "$type": "Document",
@@ -98,8 +93,7 @@
               "RelativeToolTip": "CyberSecurityBot\\Quiz.cs",
               "ViewState": "AgIAAJsAAAAAAAAAAAA3wLIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T11:20:08.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T11:20:08.875Z"
             },
             {
               "$type": "Document",
@@ -111,8 +105,7 @@
               "RelativeToolTip": "CyberSecurityBot\\TaskManager.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T19:10:02.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T19:10:02.63Z"
             },
             {
               "$type": "Document",
@@ -124,8 +117,7 @@
               "RelativeToolTip": "CyberSecurityBot\\ActivityLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T18:56:33.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T18:56:33.235Z"
             },
             {
               "$type": "Document",
@@ -137,8 +129,7 @@
               "RelativeToolTip": "CyberSecurityBot\\TaskItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T18:49:56.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T18:49:56.8Z"
             },
             {
               "$type": "Document",
@@ -149,8 +140,7 @@
               "ToolTip": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\CyberSecurityBot.csproj",
               "RelativeToolTip": "CyberSecurityBot\\CyberSecurityBot.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-29T11:29:08.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-29T11:29:08.506Z"
             },
             {
               "$type": "Document",
@@ -158,9 +148,9 @@
               "Title": "Chatbot.cs",
               "DocumentMoniker": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\Chatbot.cs",
               "RelativeDocumentMoniker": "CyberSecurityBot\\Chatbot.cs",
-              "ToolTip": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\Chatbot.cs*",
-              "RelativeToolTip": "CyberSecurityBot\\Chatbot.cs*",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAcwIQAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\casey\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\Chatbot.cs",
+              "RelativeToolTip": "CyberSecurityBot\\Chatbot.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAAACsBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-26T16:52:52.937Z",
               "EditorCaption": ""
@@ -175,8 +165,7 @@
               "RelativeToolTip": "CyberSecurityBot\\NLPProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T11:50:42.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T11:50:42.329Z"
             },
             {
               "$type": "Document",
@@ -188,8 +177,7 @@
               "RelativeToolTip": "CyberSecurityBot\\MainForm.Designer.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAYwDIAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T21:22:07.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T21:22:07.773Z"
             },
             {
               "$type": "Document",
@@ -201,8 +189,7 @@
               "RelativeToolTip": "CyberSecurityBot\\MainForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T16:49:42.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T16:49:42.108Z"
             }
           ]
         }

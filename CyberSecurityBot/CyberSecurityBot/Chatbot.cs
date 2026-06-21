@@ -29,7 +29,8 @@ namespace CyberSecurityBot
         private bool waitingForReminderTime = false;
         private bool waitingForDescription = false;
         private bool waitingForReminderChoice = false;
-        
+        private bool waitingForHelpChoice = false;
+
 
         public string GetResponse(string input)
         {
@@ -40,7 +41,7 @@ namespace CyberSecurityBot
             // =========================
             // GREETINGS
             // =========================
-            if (input.Contains("hello") || input.Contains("hi") || input.Contains("hey") || input.Contains("good morning") || input.Contains("good afternoon") || input.Contains("good evening"))
+            if (input == "hello" || input == "hi" || input == "hey" || input == "good morning" || input == "good afternoon" || input == "good evening")
             {
                 activityLog.Add("Greeting detected");
                 if (userName != "")
@@ -290,7 +291,91 @@ namespace CyberSecurityBot
             // =========================
             if (input == "help")
             {
-                return "Ask about phishing, passwords, privacy, ransomware, safe browsing.\nCommands: add task, start quiz, show tasks, show activity";
+                waitingForHelpChoice = true;
+
+                return "========== CYBERSECURITY AWARENESS BOT ==========\n\n" +
+                       "Choose an option:\n\n" +
+                       "1. Password Security\n" +
+                       "2. Phishing\n" +
+                       "3. Privacy\n" +
+                       "4. Ransomware\n" +
+                       "5. Safe Browsing\n" +
+                       "6. Add Task\n" +
+                       "7. Show Tasks\n" +
+                       "8. Complete Task\n" +
+                       "9. Delete Task\n" +
+                       "10. Start Quiz\n" +
+                       "11. Show Activity\n" +
+                       "12. Exit";
+            }
+
+            if (waitingForHelpChoice)
+            {
+                waitingForHelpChoice = false;
+
+                switch (input)
+                {
+                    case "1":
+                        return "Use strong passwords with uppercase letters, lowercase letters, numbers and symbols.";
+
+                    case "2":
+                        return "Phishing attacks try to steal your personal information. Never click suspicious links.";
+
+                    case "3":
+                        return "Protect your privacy by limiting personal information you share online and enabling 2FA.";
+
+                    case "4":
+                        return "Ransomware encrypts your files. Keep backups and antivirus software updated.";
+
+                    case "5":
+                        return "Only browse trusted HTTPS websites and avoid downloading files from unknown sources.";
+
+                    case "6":
+                        waitingForTask = true;
+                        return "Enter task title:";
+
+                    case "7":
+                        var tasks = taskRepo.GetTasks();
+
+                        if (tasks.Count == 0)
+                            return "No tasks found.";
+
+                        return string.Join("\n\n", tasks);
+
+                    case "8":
+                        return "Type: complete task <task ID>";
+
+                    case "9":
+                        return "Type: delete task <task ID>";
+
+                    case "10":
+                        quiz = new Quiz();
+                        quizMode = true;
+
+                        var q = quiz.GetCurrentQuestion();
+
+                        return q.Text + "\n" + string.Join("\n", q.Options);
+
+                    case "11":
+                        return activityLog.ShowLog();
+
+                    case "12":
+                        return "Goodbye! Stay safe online.";
+
+                    default:
+                        waitingForHelpChoice = true;
+                        return "Please choose a number between 1 and 12.";
+                }
+            }
+
+            // =========================
+            // GOODBYE
+            // =========================
+            if (input == "goodbye" || input == "bye" || input == "see you" || input == "exit")
+            {
+                activityLog.Add("User ended the conversation");
+
+                return "Goodbye! Stay safe online and remember to practice good cybersecurity habits.";
             }
 
             // =========================
