@@ -11,3 +11,16 @@ C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSec
 C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\System.Data.SQLite.dll
 C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\System.Data.SQLite.xml
 C:\Users\casey\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSec.8B1038FD.Up2Date
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\bin\Debug\CyberSecurityBot.exe.config
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\bin\Debug\CyberSecurityBot.exe
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\bin\Debug\CyberSecurityBot.pdb
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\bin\Debug\System.Data.SQLite.dll
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\bin\Debug\System.Data.SQLite.xml
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.csproj.AssemblyReference.cache
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.MainForm.resources
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.Properties.Resources.resources
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.csproj.GenerateResource.cache
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.csproj.CoreCompileInputs.cache
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSec.8B1038FD.Up2Date
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.exe
+C:\Users\casey\OneDrive\Documentos\CyberSecurityBot1\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.pdb
