@@ -1,8 +1,8 @@
 # CyberSecurity Awareness Bot
 
  Student Information
-Name: ____________________
-Subject: __________________
+Name: Casey Malungane
+Subject: PROG6221
 Project: Cybersecurity Awareness Chatbot
 Language: C# (.NET Console Application)
  1. Project Overview
